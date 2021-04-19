@@ -1,0 +1,12 @@
+[package]
+name = "jacksmate"
+version = "0.1.0"
+authors = ["supersonictumbleweed <ssdev@supersonic.page>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+jack-sys = "0.2.2"
+femtovg = "0.1.2"
+jack = "0.7.0"
